@@ -1,6 +1,11 @@
-Write a Python function that performs several text analysis operations on my full name (first name, middle name if any, and last name). The function should do the following:
-1. Count and display the number of vowels and consonants in my full name.
-2. Display the ASCII value of each character in my name.
-3. Reverse my full name and display the reversed version.
-4. Check if my name is a palindrome, for example: it reads the same forward and backward (ignoring spaces and case).
-5. Store each unique character from my name into a Python list and sort it alphabetically.
+The Problem Statement: 
+Write a Python function that performs several text analysis operations on my full name
+(first name, middle name if any, and last name). The function should do the following:
+ 1. Count and display the number of vowels and consonants in my full name.
+ 2. Display the ASCII value of each character in my name.
+ 3. Reverse my full name and display the reversed version.
+ 4. Check if my name is a palindrome, for example: it reads the same forward and backward (ignoring spaces and case).
+ 5. Store each unique character from my name into a Python list and sort it alphabetically.
+
+Technologies Used: Python Programming Language
+
