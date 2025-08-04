@@ -7,5 +7,5 @@ Write a Python function that performs several text analysis operations on my ful
  4. Check if my name is a palindrome, for example: it reads the same forward and backward (ignoring spaces and case).
  5. Store each unique character from my name into a Python list and sort it alphabetically.
 
-Technologies Used: Python Programming Language
+Technologies Used: Python Programming Language.
 
